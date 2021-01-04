@@ -7,10 +7,10 @@ This dataset contains house sale prices for King County, which includes Seattle.
 Feature Columns of dataset are as follows;
 
 Feature Columns
-id - Unique ID for each home sold
-date - Date of the home sale
-price - Price of each home sold
-bedrooms - Number of bedrooms
++ id - Unique ID for each home sold
++ date - Date of the home sale
++ price - Price of each home sold
++ bedrooms - Number of bedrooms
 bathrooms - Number of bathrooms, where .5 accounts for a room with a toilet but no shower
 sqft_living - Square footage of the apartments interior living space
 sqft_lot - Square footage of the land space
